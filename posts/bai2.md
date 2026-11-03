@@ -1,5 +1,6 @@
 ---
 title: "Bài Viết 2"
+date: 2026-11-03
 tags:
   - 中文
   - Tiếng Việt
