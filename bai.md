@@ -1,5 +1,6 @@
 ---
 title: "Bài Viết 1"
+date: 2026-11-03
 tags: ["English", "Tiếng Việt"]
 ---
 
