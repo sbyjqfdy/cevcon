@@ -26,13 +26,9 @@ Quy Trình 3 Bước: Từ Tạo Bài Đến Xuất Bản
 - **Dấu băm thẻ:** Kiểm tra xem có lỡ gõ dấu `#` trong ô `tags` không (Ví dụ: `tags: [astro]` -> Đúng, `tags: [#astro]` -> Lỗi hệ thống build).
 - **Trạng thái bài viết:** Đổi `draft: true` thành `draft: false` khi bài viết đã sẵn sàng lên sóng để Astro/Hugo chịu duyệt xuất bản.
 
----
-
 🛠️ Nhắc Nhở Cấu Hình Hệ Thống (Chỉ Làm 1 Lần)
 
 - **Tắt Wikilinks:** Vào `Settings` > `Files and links` > Tắt **Use [[Wikilinks]]** để ảnh và link tự sinh ra dạng chuẩn `[Text](URL)` hoàn hảo cho Astro/Hugo.
 - **Định dạng thời gian Templates:** Vào cài đặt Core plugin Templates, chỉnh `Date format`
     
     thành `YYYY-MM-DD` và `Time format` thành `HH:mm:ss`.
-
----
