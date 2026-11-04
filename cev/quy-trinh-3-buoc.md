@@ -1,8 +1,8 @@
 ---
 title: quy-trinh-3-buoc
-date: 2026-11-04T14:12:20+07:00
-lastmod: 2026-11-04T14:12:20+07:00
-draft: true
+date: 2026-11-04T14:42:29+07:00
+lastmod: 2026-11-04T14:42:29+07:00
+draft: false
 tags:
   - 中文
 description: ""
