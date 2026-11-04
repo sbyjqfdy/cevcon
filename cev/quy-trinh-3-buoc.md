@@ -1,7 +1,7 @@
 ---
-title: QUI TRÌNH 3 BƯỚC
-date: 2026-11-04T13:52+07:00
-lastmod: 2026-11-04T13:52+07:00
+title: quy-trinh-3-buoc
+date: 2026-11-04T14:12:20+07:00
+lastmod: 2026-11-04T14:12:20+07:00
 draft: true
 tags: []
 description: ""
