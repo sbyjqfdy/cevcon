@@ -5,6 +5,7 @@ lastmod: 2026-11-04T14:42:29+07:00
 draft: false
 tags:
   - 中文
+  - English
 description: ""
 ---
 Quy Trình 3 Bước: Từ Tạo Bài Đến Xuất Bản
