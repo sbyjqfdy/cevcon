@@ -1,9 +1,9 @@
 ---
-title: "Bài Viết 2"
+title: Bài Viết 2
 date: 2026-11-03
 tags:
   - 中文
-  - Tiếng Việt
+  - Tiếng-Việt
 ---
 
 Nội dung bài viết 2 của bạn bắt đầu từ đây...
