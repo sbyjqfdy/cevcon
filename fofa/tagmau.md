@@ -1,0 +1,14 @@
+---
+title: quy-trinh-3-buoc
+date: 2026-11-04T14:42:47+07:00
+lastmod: 2026-11-04T14:42:47+07:00
+draft: false
+tags:
+  - 如來
+  - 經文
+  - 論典
+  - 詩偈
+  - 咒語
+description: ""
+---
+chua cac tag mau
