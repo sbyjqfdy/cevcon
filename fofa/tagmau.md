@@ -1,5 +1,5 @@
 ---
-title: quy-trinh-3-buoc
+title: draft
 date: 2026-11-04T14:42:47+07:00
 lastmod: 2026-11-04T14:42:47+07:00
 draft: true
@@ -11,4 +11,4 @@ tags:
   - 咒語
 description: ""
 ---
-chua cac tag mau
+

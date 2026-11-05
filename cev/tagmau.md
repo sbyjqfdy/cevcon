@@ -1,5 +1,5 @@
 ---
-title: tagmau
+title: draft
 date: 2026-11-05T15:01:25+07:00
 tags:
   - Chinese
@@ -10,4 +10,3 @@ draft: true
 description: ""
 ---
 
-chua cac tag mau
