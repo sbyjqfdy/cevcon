@@ -1,5 +1,5 @@
 ---
-title: Tâm
+title: TÂM
 date: 2026-11-04T20:44:13+07:00
 lastmod: 2026-11-04T20:44:13+07:00
 draft: false
