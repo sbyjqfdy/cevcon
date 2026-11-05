@@ -9,6 +9,9 @@ tags:
   - 論典
   - 詩偈
   - 咒語
+  - Chinese
+  - English
+  - Vietnamese
 description: ""
 ---
 
